@@ -126,5 +126,6 @@ The final outcome of the project you can see here.
 ![WhatsApp Image 2024-11-24 at 10 20 31 PM](https://github.com/user-attachments/assets/2077f15d-4e19-4011-84ed-7ff641662d84)
  The image shows you listed students of school and modifies data, view data, & delete the data
 ![WhatsApp Image 2024-11-24 at 10 26 39 PM](https://github.com/user-attachments/assets/7d04f3db-3f9e-485f-bab8-ba4553c28099)
-![WhatsApp Image 2024-11-24 at 10 26 39 PM](https://github.com/user-attachments/assets/7d04f3db-3f9e-485f-bab8-ba4553c28099)
+![WhatsApp Image 2024-11-24 at 10 27 37 PM](https://github.com/user-attachments/assets/a3939748-ceee-492b-87eb-f8a8760dd4c1)
+
 
