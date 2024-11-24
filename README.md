@@ -64,15 +64,25 @@ Open your browser and navigate to
 school_demo/
 │
 ├── db.php               # Database connection script
+
 ├── index.php            # Home page listing all students
+
 ├── create.php           # Add a new student
+
 ├── view.php             # View student details
+
 ├── edit.php             # Edit student details
+
 ├── delete.php           # Delete a student
+
 ├── classes.php          # Manage classes
+
 ├── uploads/             # Uploaded student images
+
 ├── school_db.sql        # Database schema and initial data
+
 ├── README.md            # Project documentation
+
 └── style.css            # Optional custom styles
 
 ##### Usage
@@ -114,3 +124,4 @@ Add an option to paginate the student list.
 The final outcome of the project you can see here.
 
 ![WhatsApp Image 2024-11-24 at 10 20 31 PM](https://github.com/user-attachments/assets/2077f15d-4e19-4011-84ed-7ff641662d84)
+ The image shows you listed students of school and modifies data, view data, & delete the data
